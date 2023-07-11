@@ -1,23 +1,23 @@
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
-https://www.overleaf.com/project/....
+https://www.overleaf.com/project/64ad097f2a04bfe22b5b50dd
 
 Unlisted YouTube video:
-http://youtube....
+
 
 Conference submitted paper / paper submission / login Link:
-https://easy....
+
 
 Paper title:
-Partially automated exam answer script checking for Intro to Marketing
+Explainable Detection of Online Sexism
 
 Paper presentation (anyone can view without login):
-http://slides.google.com/
+https://docs.google.com/presentation/d/1Y74b3G5V2rAwINIGMZRnwdzPBLr4yxHvT8WLrhGQ1yI/edit#slide=id.g2582d3a93e4_0_16
 
 Paper submission date (to workshop/conference):
-25 October 1999
+
 
 Paper submission ID: (received) from conference/workshop
-1341234
+
 
 Conference Name:
 2005 International Conference on Quantum Pattern Recognition for Natural Language Processing: Techniques and Practices
